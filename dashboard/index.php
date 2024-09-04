@@ -34,7 +34,7 @@
                                 <th>Nome</th>
                                 <th>Email</th>                                
                                 <th>Telefone</th>                                
-                                <th>Senha</th>
+                                <!-- <th>Senha</th> -->
                                 <th>Ações</th>
                             </tr>
                         </thead>
@@ -47,7 +47,7 @@
                                 <td><?php echo $dat['nome'] ?></td>
                                 <td><?php echo $dat['email'] ?></td>
                                 <td><?php echo $dat['telefone'] ?></td>
-                                <td><?php echo $dat['senha'] ?></td>
+                                <!-- <td><?php echo $dat['senha'] ?></td> -->
                                 <td></td>
                             </tr>
                             <?php
@@ -83,10 +83,10 @@
                 <label for="tel" class="col-form-label">Telefone:</label>
                 <input type="text" class="form-control" id="telefone">
                 </div>               
-                <div class="form-group">
+                <!-- <div class="form-group">
                 <label for="senha" class="col-form-label">Senha:</label>
                 <input type="text" class="form-control" id="senha">
-                </div>           
+                </div>            -->
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-light" data-dismiss="modal">Cancelar</button>
