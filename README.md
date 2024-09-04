@@ -10,6 +10,9 @@ Este projeto é um sistema de gestão de usuários desenvolvido com PHP, JavaScr
 ## Layout web
 ![Web 1](https://github.com/Micael-Resende/ProjetoWeb-II/blob/main/assets/sistema.png)
 
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/Micael-Resende/ProjetoWeb-II/blob/main/assets/diagramaBD.png)
+
 # Tecnologias utilizadas
 ## Back end
 - PHP
