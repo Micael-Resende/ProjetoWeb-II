@@ -24,6 +24,8 @@ Este projeto é um sistema de gestão de usuários desenvolvido com PHP, JavaScr
 ## Implantação em produção
 - Banco de dados: MySQL
 
+## Iniciar aplicação
+- CMD/Powershel: php -S localhost:8080 -t /xampp/htdocs/
 
 # Autor
 Micael Resende da Silva
